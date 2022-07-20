@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;charset=utf-8:James;Trevor;L;;
+ADR;WORK:;;The Scalpel 52 Lime Street;London;United Kingdom;EC3M 7AF;
+TEL;WORK:+44 (0)20 7920 4087
+TEL;WORK:
+TEL;WORK;FAX:+44 (0)20 7496 8500
+EMAIL; INTERNET:tjames@mofo.com
+TITLE:Partner
+ROLE:
+ORG:Morrison & Foerster LLP
+URL; WORK:
+END:VCARD

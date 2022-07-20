@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;charset=utf-8:Hensley;John;;;
+ADR;WORK:;;701 Brazos Street Suite 1100;Austin;Texas;78701;
+TEL;WORK:(202) 778-1654
+TEL;WORK:
+TEL;WORK;FAX:
+EMAIL; INTERNET:jhensley@mofo.com
+TITLE:Partner
+ROLE:
+ORG:Morrison & Foerster LLP
+URL; WORK:
+END:VCARD

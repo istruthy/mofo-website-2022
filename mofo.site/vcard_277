@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;charset=utf-8:Feldman;Jill;H.;;
+ADR;WORK:;;425 Market Street ;San Francisco;CA;94105-2482;
+TEL;WORK:(415) 268-6474
+TEL;WORK:
+TEL;WORK;FAX:(415) 268-7522
+EMAIL; INTERNET:jfeldman@mofo.com
+TITLE:Senior Counsel
+ROLE:
+ORG:Morrison & Foerster LLP
+URL; WORK:
+END:VCARD

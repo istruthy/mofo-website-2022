@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;charset=utf-8:Wong;Christine;Y.;;
+ADR;WORK:;;425 Market Street ;San Francisco;CA;94105-2482;
+TEL;WORK:(415) 268-6105
+TEL;WORK:
+TEL;WORK;FAX:(415) 268-7522
+EMAIL; INTERNET:christinewong@mofo.com
+TITLE:Partner
+ROLE:
+ORG:Morrison & Foerster LLP
+URL; WORK:
+END:VCARD

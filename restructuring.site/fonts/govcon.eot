@@ -1,0 +1,24 @@
+$string.trim($cms.template("BLOG-Header"))   
+<div class="content_container">
+<section class="content_wrap row" role="document">   
+
+
+<div id="content" class="columns medium-8" role="main">				
+		<p> We’re sorry, we seem to have lost this page, but we don’t want to lose you.</p>
+		<p> Please try using the search box on the right or clicking the buttom below to return to the previous page.</p>
+		<p><a href="javascript:window.history.back();" class="button">←  Back to previous page.</a></p>															
+</div>             
+	<!-- #content -->
+
+
+        <div id="secondary" class="medium-4 large-4 columns widget-area data-equalizer-watch" role="complementary">
+        $cms.helpText("BLOG-Helper Sidebar")		$cms.template("BLOG-Helper Sidebar")		
+
+                    </div>
+					
+                    <!-- #secondary -->
+</section>
+<!-- end .content-wrap -->
+            </div>
+            <!-- end .content_container -->
+            $string.trim($cms.template("BLOG-Footer"))

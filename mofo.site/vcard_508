@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;charset=utf-8:Johnstone;Kathy;;;
+ADR;WORK:;;707 Wilshire Boulevard ;Los Angeles;CA;90017-3543;
+TEL;WORK:(213) 892-5662
+TEL;WORK:
+TEL;WORK;FAX:(213) 892-5454
+EMAIL; INTERNET:kjohnstone@mofo.com
+TITLE:Senior Of Counsel
+ROLE:
+ORG:Morrison & Foerster LLP
+URL; WORK:
+END:VCARD

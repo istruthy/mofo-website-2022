@@ -1,0 +1,83 @@
+@media print {
+    /* --------------------------------- Customization --------------------------------- */
+    .top-bar-section{
+        display:none;
+    }
+     .toggle-topbar.menu-icon{
+         display: none;
+    }
+     .sharedaddy.sd-sharing-enabled{
+         display: none;
+    }
+     #black-studio-tinymce-4, #wysija-2, #black-studio-tinymce-3, #search-2, #categories-2, #text-2, #black-studio-tinymce-6, #backtotop{
+         display: none;
+    }
+     #footer > .footer-nav-wrapper, #footer > .medium-2.medium-centered.columns{
+         display: none;
+    }
+    .top-bar{ 
+        text-align: center !important;
+    }
+    .title-area > li {
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+    .mofo-logo > a > img{
+        width: 100px !important;
+    }
+
+    .header-title{
+        font-size: 3em !important;
+    }
+
+    #content.medium-8{
+        border-right: 0 !important;
+    }
+    /* --------------------------------- END --------------------------------- */
+    /* hide the search From Example Fro it https://dev.www.mofo.com/resources/events
+    /*/
+     form{
+         display:none;
+    }
+    /*make the class section in the left colum has the same width of the parent Div Example Fro it https://www.mofo.com/people/miriam-wugmeister.html*/
+     .section {
+         border-top: solid 1px #666;
+         margin-top: 10px;
+         font-size: 13px;
+         width:100% !important;
+    }
+
+    /* make the distance of p example of it https://www.mofo.com/resources/publications/170306-uk-regulations-loan-based-crowdfunding.html*/
+     p {
+         display: block;
+         -webkit-margin-before: 1em;
+         -webkit-margin-after: 1em;
+         -webkit-margin-start: 0px;
+         -webkit-margin-end: 0px;
+    }
+     a[href]:after {
+         content: none !important;
+    }
+
+     a[href]:after {
+         content: none !important;
+    }
+     body.has-submenu .body {
+         margin-top: 0;
+    }
+    
+    /* additional add */
+    #secondary {
+      display: none;
+     }
+     
+    .title-area {
+     align: center;
+     }
+     
+     .header-title {
+     font-size: 5em;
+     }
+}
+ 

@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>      Tax RSS</title>
+    <link>https://www.mofo.com/rss/practice-areas/tax-rss</link>
+    <description></description>
+    <language>en</language>
+    <item>
+      <guid isPermaLink="false">        576372691</guid>
+      <link>https://www.mofo.com/resources/insights/220407-paying-employees-cryptocurrency-lawful.html</link>
+      <title>Paying Employees in Cryptocurrency: Is That Lawful?</title>
+      <description>        In recent years, more consumers, merchants, and financial institutions have accepted cryptocurrency as a form of payment for everyday products and services. Last November, mayors of two major U.S. cities signaled what may be the next phase of cryptocurrency’s melding into the mundane, when they announced they would accept paychecks in cryptocurrency. On Twitter, Mayor Francis Suarez of Miami said he would accept his next paycheck in Bitcoin, to which Mayor Eric Adams of New York responded that he would accept his first three paychecks in Bitcoin.
+
+</description>
+      <pubDate>Thu, 07 Apr 2022 12:31:00 PDT</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">        576277001</guid>
+      <link>https://www.mofo.com/resources/insights/220309-treasury-suggests-limiting-definition-digital-asset-broker.html</link>
+      <title>Treasury Suggests Limiting Definition of Digital Asset Broker</title>
+      <description>        Recent correspondence between a group of U.S. Senators and the Department of the Treasury appears to have eased the significant concerns expressed by the digital asset sector regarding the scope of the new broker reporting legislation included in the recently passed Infrastructure Investment and Jobs Act (IIJA). The IIJA amended sections 6045 and 6045A of the Internal Revenue Code, which impose information reporting requirements on brokers and certain other persons that facilitate transactions involving “covered securities.”</description>
+      <pubDate>Wed, 09 Mar 2022 18:25:00 PST</pubDate>
+    </item>
+    <atom:link href="http://www.mofo.com/rss/practice-areas/tax-rss" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+@media print {
+  @page { 
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+  }
+
+  #content,#page {
+  width: 100%; 
+  margin: 0; 
+  float: none;
+  }
+  /**
+ * Making intergated videos disappear, and removing the iframes' whitespace to zero. 
+ */
+  .entry iframe, ins {
+		display: none;
+		width: 0 !important;
+		height: 0 !important;
+		overflow: hidden !important;
+		line-height: 0pt !important;
+		white-space: nowrap;
+	}
+	.embed-youtube, .embed-responsive {
+		position: absolute;
+		height: 0;
+		overflow: hidden;
+	}
+	
+	.sticky-hero{
+		position:relative !important;
+	}
+	.site-header{
+		position:absolute !important;
+	}
+}
